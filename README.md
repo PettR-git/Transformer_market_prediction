@@ -1,0 +1,1 @@
+A transformer model that predicts the S&P500 based on large data volumes, including macroeconomic data, financial data, and technical analysis. Runs ideally on shorter encoding-decoding time frames. The transformer model uses several attention heads to learn patterns from static data and different periodic temporal data (day, month, year).
