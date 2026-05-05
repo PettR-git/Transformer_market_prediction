@@ -1,0 +1,110 @@
+embeddings {
+  tensor_name: "DGS10_missing:00780"
+  metadata_path: "00780/DGS10_missing\\metadata.tsv"
+  tensor_path: "00780/DGS10_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "cpi_growth_missing:00780"
+  metadata_path: "00780/cpi_growth_missing\\metadata.tsv"
+  tensor_path: "00780/cpi_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "ppi_growth_missing:00780"
+  metadata_path: "00780/ppi_growth_missing\\metadata.tsv"
+  tensor_path: "00780/ppi_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "UMCSENT_missing:00780"
+  metadata_path: "00780/UMCSENT_missing\\metadata.tsv"
+  tensor_path: "00780/UMCSENT_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "hpnom_growth_missing:00780"
+  metadata_path: "00780/hpnom_growth_missing\\metadata.tsv"
+  tensor_path: "00780/hpnom_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "gdp_growth_missing:00780"
+  metadata_path: "00780/gdp_growth_missing\\metadata.tsv"
+  tensor_path: "00780/gdp_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "dividend_yield_missing:00780"
+  metadata_path: "00780/dividend_yield_missing\\metadata.tsv"
+  tensor_path: "00780/dividend_yield_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "price_to_earnings_missing:00780"
+  metadata_path: "00780/price_to_earnings_missing\\metadata.tsv"
+  tensor_path: "00780/price_to_earnings_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "UNRATE_missing:00780"
+  metadata_path: "00780/UNRATE_missing\\metadata.tsv"
+  tensor_path: "00780/UNRATE_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "revenue_growth_missing:00780"
+  metadata_path: "00780/revenue_growth_missing\\metadata.tsv"
+  tensor_path: "00780/revenue_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "expenditure_growth_missing:00780"
+  metadata_path: "00780/expenditure_growth_missing\\metadata.tsv"
+  tensor_path: "00780/expenditure_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "exports_growth_missing:00780"
+  metadata_path: "00780/exports_growth_missing\\metadata.tsv"
+  tensor_path: "00780/exports_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "imports_growth_missing:00780"
+  metadata_path: "00780/imports_growth_missing\\metadata.tsv"
+  tensor_path: "00780/imports_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "thh_growth_missing:00780"
+  metadata_path: "00780/thh_growth_missing\\metadata.tsv"
+  tensor_path: "00780/thh_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "tbus_growth_missing:00780"
+  metadata_path: "00780/tbus_growth_missing\\metadata.tsv"
+  tensor_path: "00780/tbus_growth_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "risky_tr_missing:00780"
+  metadata_path: "00780/risky_tr_missing\\metadata.tsv"
+  tensor_path: "00780/risky_tr_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "safe_tr_missing:00780"
+  metadata_path: "00780/safe_tr_missing\\metadata.tsv"
+  tensor_path: "00780/safe_tr_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "lev_missing:00780"
+  metadata_path: "00780/lev_missing\\metadata.tsv"
+  tensor_path: "00780/lev_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "ltd_missing:00780"
+  metadata_path: "00780/ltd_missing\\metadata.tsv"
+  tensor_path: "00780/ltd_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "noncore_missing:00780"
+  metadata_path: "00780/noncore_missing\\metadata.tsv"
+  tensor_path: "00780/noncore_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "inverted_yield_missing:00780"
+  metadata_path: "00780/inverted_yield_missing\\metadata.tsv"
+  tensor_path: "00780/inverted_yield_missing\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Weekday_missing:00780"
+  metadata_path: "00780/Weekday_missing\\metadata.tsv"
+  tensor_path: "00780/Weekday_missing\\tensors.tsv"
+}
